@@ -24,6 +24,7 @@ h.addEventListener('mouseover', prueba);
 ab.addEventListener('mouseover', prueba);
 d.addEventListener('mouseover', prueba);
 ob.addEventListener('mouseover', prueba);
+imagen.addEventListener('click', prueba);
 
 //functions
 
