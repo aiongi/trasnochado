@@ -52,8 +52,6 @@ let imagenes = [
     'images/my life2.jpg',
     'images/numb.jpg',
     'images/overpopulation.jpg',
-    'images/petet1nogod.jpg',
-    'images/petete libro cansado-01.jpg',
     'images/reinventadoprimeraedicion.jpg',
     'images/routine verde.jpg',
     'images/superimposed interpretations of a 2012 laptop.gif',
@@ -63,7 +61,7 @@ let imagenes = [
     'images/superimposed interpretations of a tennis racquet.gif',
 ];
 
-let inicial = Math.floor(Math.random() * ((imagenes.length - 1) - 27 + 1)) + 27;
+let inicial = Math.floor(Math.random() * ((imagenes.length - 1) - 25 + 1)) + 25;
 imagen.setAttribute('src', imagenes[inicial]);
 
 let max = imagenes.length - 1;
