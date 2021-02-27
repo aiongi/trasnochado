@@ -40,8 +40,15 @@ h1 {
     margin: -15% auto;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Crimson Text', serif;
+    font-size: 5.5vmin;
+}
+
 a:hover {
-    text-decoration: none !important;
+    text-decoration: none;
     width: 80%;
     background-color: black;
     color: white;
