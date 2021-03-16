@@ -13,17 +13,17 @@ const ob = document.querySelector(".ob");
 const imagen = document.querySelector(".imagen");
 
 //event listeners
-t.addEventListener('mouseover', prueba);
-r.addEventListener('mouseover', prueba);
-a.addEventListener('mouseover', prueba);
-s.addEventListener('mouseover', prueba);
-n.addEventListener('mouseover', prueba);
-o.addEventListener('mouseover', prueba);
-c.addEventListener('mouseover', prueba);
-h.addEventListener('mouseover', prueba);
-ab.addEventListener('mouseover', prueba);
-d.addEventListener('mouseover', prueba);
-ob.addEventListener('mouseover', prueba);
+t.addEventListener('click', prueba);
+r.addEventListener('click', prueba);
+a.addEventListener('click', prueba);
+s.addEventListener('click', prueba);
+n.addEventListener('click', prueba);
+o.addEventListener('click', prueba);
+c.addEventListener('click', prueba);
+h.addEventListener('click', prueba);
+ab.addEventListener('click', prueba);
+d.addEventListener('click', prueba);
+ob.addEventListener('click', prueba);
 imagen.addEventListener('click', prueba);
 
 //functions
