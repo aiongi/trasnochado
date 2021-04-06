@@ -16,10 +16,9 @@ html {
 h1 {
     color: black;
     font-family: 'Heritage Display';
-    font-size: 14vmin;
-    margin: 15% auto;
+    font-size: 20vmin;
+    margin: 10% auto;
     text-align: center;
-    cursor: grabbing;
     z-index: 5;
     position: relative;
 }
@@ -29,7 +28,7 @@ h1 {
     bottom: 10%;
     z-index: 1;
     margin: auto;
-    cursor: grabbing;
+    width: 400px;
 }
 
 .sociales {
@@ -37,7 +36,7 @@ h1 {
     position: relative;
     z-index: 50;
     text-align: center;
-    margin: -15% auto;
+    margin: -10% auto;
 }
 
 a {
@@ -52,4 +51,9 @@ a:hover {
     width: 80%;
     background-color: black;
     color: white;
+}
+
+.sonrisa {
+    cursor: grabbing;
+    font-weight: bolder;
 }
