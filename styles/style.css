@@ -56,4 +56,5 @@ a:hover {
 .sonrisa {
     cursor: grabbing;
     font-weight: bolder;
+    font-family: monospace;
 }
