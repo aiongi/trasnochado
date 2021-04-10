@@ -16,7 +16,7 @@ html {
 h1 {
     color: black;
     font-family: 'Heritage Display';
-    font-size: 20vmin;
+    font-size: 22vmin;
     margin: 10% auto;
     text-align: center;
     z-index: 5;
@@ -44,7 +44,8 @@ a {
     color: black;
     font-family: 'Crimson Text', serif;
     font-size: 5.5vmin;
-    padding: 0rem 5px;
+    padding: 0.5vmin 1vmin;
+    margin: 0vmin 1vmin;
 }
 
 a:hover {
